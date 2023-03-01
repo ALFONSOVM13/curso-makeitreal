@@ -1,0 +1,9 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: blanchedalmond;
+    box-shadow: 5px 5px 10px 15px #333;
+}
+.text {
+    text-shadow: 2px 2px 3px  red;
+}

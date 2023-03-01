@@ -1,0 +1,10 @@
+.background {
+    height: 2000px;
+    width: 1000px;
+    background-color: aquamarine;
+    background-image: url(./descarga.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;    
+    

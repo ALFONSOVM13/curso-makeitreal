@@ -1,0 +1,28 @@
+.primer-contenedor {
+    width: 100%;
+    height: 50px;
+    background-color: #2f2f2f;
+  } 
+  
+  .segundo-contenedor {
+    width: 100%;
+    height: 1000px;
+    background-image: url("./fondo.JPG");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .tercer-contenedor {
+    width: 100%;
+    height: 400px;
+    background-color: #1c2742;
+    background-image: url("./logo-black-baffa903a5ee8ad3c94f085fd551487207b3eeae296f2331880f8004b2af7743.png");
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+  }

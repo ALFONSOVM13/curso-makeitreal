@@ -1,0 +1,13 @@
+#titulo_1 {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.heading {
+    background-color: green;
+    border: 1px  black;   
+}
+#subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,14 @@
+.container {
+    width: 400px;
+    height: 1000px;
+    background-color: blueviolet;
+    
+    
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: fixed;
+    top: 100px;
+}

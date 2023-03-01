@@ -1,0 +1,66 @@
+.container1 {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(90, 159, 160);
+    position: relative;
+    box-shadow: 10px 10px 20px 10px grey;
+    
+    
+}
+.hijo1-container1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(225, 182, 139);    
+    position: absolute;
+    top: 100px ;
+    right: 0;
+}
+.box-container1 {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: absolute;
+    top: 30px ;
+    right: 0px;
+}
+.hijo2-container1 {
+    width: 143px;
+    height: 20px;
+    background-color: pink;    
+    position: absolute;
+    top: 300px ;
+    right: 0;
+}
+.container2 {
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    position: relative;
+    box-shadow: 10px 10px 20px 10px grey;
+}
+
+.hijo1-container2 {
+    width: 200px;
+    height: 50px;
+    position: relative;
+    background-color: red;
+    top: 200px;
+    left: 200px;
+    box-shadow: 10px 10px 20px 10px grey;
+}
+      
+.mensaje{
+    width: 400px;
+    height: 100px;
+    padding-bottom: 20px;
+    position: fixed;
+    border: 2px dashed blue;
+    top: 300px;
+    left: 600px;
+    text-align: center;
+    box-shadow: 5px 10px 20px 20px grey;
+    text-shadow: 2px 2px 30px red;
+}
+h1 {
+    margin-top: 40px;
+}

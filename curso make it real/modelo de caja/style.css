@@ -1,0 +1,19 @@
+.box{
+    padding: 5px 10x 15px 20px;
+    padding-top: 5px ;
+    padding-right: 10px;
+    padding-bottom: 15px ;
+    padding-left: 20px ;
+
+    border: 2px solid black;
+    border-top: 2px dashed blue ;
+    border-right: 2px dotted yellow;
+    border-bottom: 2px double green;
+    border-left: 2px solid red;
+
+    margin: 10px;
+
+
+    width: 100px;
+    height: 100px;
+}
